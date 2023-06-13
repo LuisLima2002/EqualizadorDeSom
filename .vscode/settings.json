@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "cla_config.h": "c",
+    "peripheral_setup.h": "c"
+  }
+}

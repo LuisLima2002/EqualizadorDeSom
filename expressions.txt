@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="counter"/>
+<VarMeta IMemento.internal.id="dlog.input_ch1"/>
+<VarMeta IMemento.internal.id="dlog.input_ch2"/>
+<VarMeta IMemento.internal.id="dlog.pre_scalar"/>
+<VarMeta IMemento.internal.id="GpioDataRegs.GPADAT.bit.GPIO5"/>
+<VarMeta IMemento.internal.id="vdcbus"/>
+<VarMeta IMemento.internal.id="vo1"/>
+<VarMeta IMemento.internal.id="iL1"/>
+<VarMeta IMemento.internal.id="duty1"/>
+<VarMeta IMemento.internal.id="iL2"/>
+<VarMeta IMemento.internal.id="vo2"/>
+<VarMeta IMemento.internal.id="duty2"/>
+<VarMeta IMemento.internal.id="offset_iL1"/>
+<VarMeta IMemento.internal.id="offset_iL2"/>
+</ExportImportMemento.1>
